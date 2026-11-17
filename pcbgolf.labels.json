@@ -1,0 +1,1227 @@
+{
+  "BH1": {
+    "name": "Mounting hole",
+    "description": "A plated screw hole connected to board ground. It fastens the board mechanically.",
+    "group": "Power input and regulators"
+  },
+  "BH2": {
+    "name": "Mounting hole",
+    "description": "A plated screw hole connected to board ground. It fastens the board mechanically.",
+    "group": "Power input and regulators"
+  },
+  "BH3": {
+    "name": "Mounting hole",
+    "description": "A plated screw hole connected to board ground. It fastens the board mechanically.",
+    "group": "Power input and regulators"
+  },
+  "BH4": {
+    "name": "Mounting hole",
+    "description": "A plated screw hole connected to board ground. It fastens the board mechanically.",
+    "group": "Power input and regulators"
+  },
+  "C1": {
+    "name": "Supply capacitor",
+    "description": "Connected between 5 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Power input and regulators"
+  },
+  "C2": {
+    "name": "Supply capacitor",
+    "description": "Connected between 5 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Power input and regulators"
+  },
+  "C3": {
+    "name": "Supply capacitor",
+    "description": "Connected between 12 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Power input and regulators"
+  },
+  "C4": {
+    "name": "Capacitor",
+    "description": "Connected between Net-(U1-BST) and Net-(U1-SW).",
+    "group": "Power input and regulators"
+  },
+  "C5": {
+    "name": "Supply capacitor",
+    "description": "Connected between 12 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Power input and regulators"
+  },
+  "C6": {
+    "name": "Capacitor",
+    "description": "Connected between Net-(U1-FB) and 3.3 V.",
+    "group": "Power input and regulators"
+  },
+  "C7": {
+    "name": "Supply capacitor",
+    "description": "Connected between 3.3 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Power input and regulators"
+  },
+  "C8": {
+    "name": "Supply capacitor",
+    "description": "Connected between 3.3 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Power input and regulators"
+  },
+  "C9": {
+    "name": "Capacitor",
+    "description": "Connected between Net-(U2-BST) and Net-(U2-SW).",
+    "group": "Power input and regulators"
+  },
+  "C10": {
+    "name": "Capacitor",
+    "description": "Connected between Net-(U2-FB) and 5 V.",
+    "group": "Power input and regulators"
+  },
+  "C11": {
+    "name": "Supply capacitor",
+    "description": "Connected between 5 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Power input and regulators"
+  },
+  "C12": {
+    "name": "Supply capacitor",
+    "description": "Connected between 5 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Power input and regulators"
+  },
+  "C13": {
+    "name": "Supply capacitor",
+    "description": "Connected between 5 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Power input and regulators"
+  },
+  "C14": {
+    "name": "Capacitor",
+    "description": "Connected between Net-(U3-PH0) and ground.",
+    "group": "Main controller"
+  },
+  "C15": {
+    "name": "Capacitor",
+    "description": "Connected between VDDLDO and ground.",
+    "group": "Main controller"
+  },
+  "C16": {
+    "name": "Capacitor",
+    "description": "Connected between VDDLDO and ground.",
+    "group": "Main controller"
+  },
+  "C17": {
+    "name": "Capacitor",
+    "description": "Connected between Net-(U3-PH1) and ground.",
+    "group": "Main controller"
+  },
+  "C18": {
+    "name": "Capacitor",
+    "description": "Connected between VDDLDO and ground.",
+    "group": "Main controller"
+  },
+  "C19": {
+    "name": "Supply capacitor",
+    "description": "Connected between 3.3 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Main controller"
+  },
+  "C20": {
+    "name": "Supply capacitor",
+    "description": "Connected between 3.3 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Main controller"
+  },
+  "C21": {
+    "name": "Capacitor",
+    "description": "Connected between VDDLDO and ground.",
+    "group": "Main controller"
+  },
+  "C22": {
+    "name": "Capacitor",
+    "description": "Connected between VDDA and ground.",
+    "group": "Main controller"
+  },
+  "C23": {
+    "name": "Supply capacitor",
+    "description": "Connected between 3.3 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Main controller"
+  },
+  "C24": {
+    "name": "Supply capacitor",
+    "description": "Connected between 3.3 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Main controller"
+  },
+  "C25": {
+    "name": "Capacitor",
+    "description": "Connected between VLXSMPS and ground.",
+    "group": "Main controller"
+  },
+  "C26": {
+    "name": "Supply capacitor",
+    "description": "Connected between 3.3 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Main controller"
+  },
+  "C27": {
+    "name": "Supply capacitor",
+    "description": "Connected between 3.3 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Main controller"
+  },
+  "C28": {
+    "name": "Capacitor",
+    "description": "Connected between Net-(U4-XTAL1) and ground.",
+    "group": "Host USB and microSD"
+  },
+  "C29": {
+    "name": "Capacitor",
+    "description": "Connected between USB bus power and ground.",
+    "group": "Host USB and microSD"
+  },
+  "C30": {
+    "name": "Supply capacitor",
+    "description": "Connected between ground and 3.3 V. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Host USB and microSD"
+  },
+  "C31": {
+    "name": "Supply capacitor",
+    "description": "Connected between ground and 3.3 V. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Host USB and microSD"
+  },
+  "C32": {
+    "name": "Capacitor",
+    "description": "Connected between Net-(U4-XTAL2) and ground.",
+    "group": "Host USB and microSD"
+  },
+  "C33": {
+    "name": "Capacitor",
+    "description": "Connected between Net-(U4-VDD18) and ground.",
+    "group": "Host USB and microSD"
+  },
+  "C34": {
+    "name": "Capacitor",
+    "description": "Connected between Net-(U4-VDD18PLL) and ground.",
+    "group": "Host USB and microSD"
+  },
+  "C35": {
+    "name": "Capacitor",
+    "description": "Connected between ground and Net-(U4-VDD18).",
+    "group": "Host USB and microSD"
+  },
+  "C36": {
+    "name": "Capacitor",
+    "description": "Connected between ground and Net-(U4-VDD18PLL).",
+    "group": "Host USB and microSD"
+  },
+  "C37": {
+    "name": "Supply capacitor",
+    "description": "Connected between 3.3 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "Host USB and microSD"
+  },
+  "C38": {
+    "name": "Supply capacitor",
+    "description": "Connected between 5 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "CAN buses"
+  },
+  "C39": {
+    "name": "Supply capacitor",
+    "description": "Connected between 5 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "CAN buses"
+  },
+  "C40": {
+    "name": "Supply capacitor",
+    "description": "Connected between 5 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "CAN buses"
+  },
+  "C41": {
+    "name": "Supply capacitor",
+    "description": "Connected between 5 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "CAN buses"
+  },
+  "C42": {
+    "name": "Supply capacitor",
+    "description": "Connected between 3.3 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "CAN buses"
+  },
+  "C43": {
+    "name": "Supply capacitor",
+    "description": "Connected between 3.3 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "CAN buses"
+  },
+  "C44": {
+    "name": "Supply capacitor",
+    "description": "Connected between 3.3 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "CAN buses"
+  },
+  "C45": {
+    "name": "Supply capacitor",
+    "description": "Connected between 3.3 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "CAN buses"
+  },
+  "C46": {
+    "name": "Supply capacitor",
+    "description": "Connected between 12 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "CAN buses"
+  },
+  "C47": {
+    "name": "Supply capacitor",
+    "description": "Connected between 12 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "CAN buses"
+  },
+  "C48": {
+    "name": "Supply capacitor",
+    "description": "Connected between 12 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "CAN buses"
+  },
+  "C49": {
+    "name": "Supply capacitor",
+    "description": "Connected between 12 V and ground. It supplies a small reserve of charge locally and helps smooth supply noise.",
+    "group": "CAN buses"
+  },
+  "C50": {
+    "name": "Port supply capacitor",
+    "description": "Local charge storage on the 12 V side of the port power switch.",
+    "group": "Port 1"
+  },
+  "C51": {
+    "name": "Port supply capacitor",
+    "description": "Local charge storage on the 12 V side of the port power switch.",
+    "group": "Port 2"
+  },
+  "C52": {
+    "name": "Port supply capacitor",
+    "description": "Local charge storage on the 12 V side of the port power switch.",
+    "group": "Port 3"
+  },
+  "C53": {
+    "name": "Port supply capacitor",
+    "description": "Local charge storage on the 12 V side of the port power switch.",
+    "group": "Port 4"
+  },
+  "D1": {
+    "name": "Input surge suppressor",
+    "description": "Clamps short voltage spikes between the barrel-jack input and ground.",
+    "group": "Power input and regulators"
+  },
+  "D2": {
+    "name": "Input protection diode",
+    "description": "Part of the input protection circuit around Q1.",
+    "group": "Power input and regulators"
+  },
+  "J1": {
+    "name": "12 V barrel jack",
+    "description": "The power input. A barrel plug supplies the board with 12 V DC.",
+    "group": "Power input and regulators"
+  },
+  "J2": {
+    "name": "microSD socket",
+    "description": "Holds the microSD card under a hinged lid. The card’s data and clock lines connect to the STM32.",
+    "group": "Host USB and microSD"
+  },
+  "J3": {
+    "name": "Flat host USB-C",
+    "description": "The USB connection from the host to the hub. The cable plugs in from the board edge.",
+    "group": "Host USB and microSD"
+  },
+  "J4": {
+    "name": "CAN header",
+    "description": "The two rows of holes expose CAN H and CAN L for each of the four buses.",
+    "group": "CAN buses"
+  },
+  "J5": {
+    "name": "Upright device port",
+    "description": "An OBD-C socket for a connected device. It carries USB data, four CAN pairs, sideband signals, and switched power. The plug goes in from above.",
+    "group": "Port 1"
+  },
+  "J6": {
+    "name": "Upright device port",
+    "description": "An OBD-C socket for a connected device. It carries USB data, four CAN pairs, sideband signals, and switched power. The plug goes in from above.",
+    "group": "Port 2"
+  },
+  "J7": {
+    "name": "Upright device port",
+    "description": "An OBD-C socket for a connected device. It carries USB data, four CAN pairs, sideband signals, and switched power. The plug goes in from above.",
+    "group": "Port 3"
+  },
+  "J8": {
+    "name": "Upright device port",
+    "description": "An OBD-C socket for a connected device. It carries USB data, four CAN pairs, sideband signals, and switched power. The plug goes in from above.",
+    "group": "Port 4"
+  },
+  "L1": {
+    "name": "3.3 V regulator inductor",
+    "description": "Stores and releases energy as U1 switches, helping turn the pulses into a steady 3.3 V output.",
+    "group": "Power input and regulators"
+  },
+  "L2": {
+    "name": "5 V regulator inductor",
+    "description": "Stores and releases energy as U2 switches, helping turn the pulses into a steady 5 V output.",
+    "group": "Power input and regulators"
+  },
+  "L3": {
+    "name": "Analog supply filter",
+    "description": "Sits between the 3.3 V rail and the STM32’s analog supply, VDDA.",
+    "group": "Main controller"
+  },
+  "L4": {
+    "name": "STM32 supply inductor",
+    "description": "Connects the STM32’s switching supply pins VLXSMPS and VDDLDO.",
+    "group": "Main controller"
+  },
+  "L5": {
+    "name": "CAN 0 choke",
+    "description": "Filters noise that appears on both CAN 0 wires together while letting the difference between the two wires pass.",
+    "group": "CAN buses"
+  },
+  "L6": {
+    "name": "CAN 1 choke",
+    "description": "Filters noise that appears on both CAN 1 wires together while letting the difference between the two wires pass.",
+    "group": "CAN buses"
+  },
+  "L7": {
+    "name": "CAN 2 choke",
+    "description": "Filters noise that appears on both CAN 2 wires together while letting the difference between the two wires pass.",
+    "group": "CAN buses"
+  },
+  "L8": {
+    "name": "CAN 3 choke",
+    "description": "Filters noise that appears on both CAN 3 wires together while letting the difference between the two wires pass.",
+    "group": "CAN buses"
+  },
+  "LED1": {
+    "name": "RGB status LED",
+    "description": "Three LED colors in one package, driven by the STM32.",
+    "group": "Main controller"
+  },
+  "LED2": {
+    "name": "CAN 0 activity LED",
+    "description": "Lights when the activity detector U9 senses traffic on CAN 0.",
+    "group": "CAN buses"
+  },
+  "LED3": {
+    "name": "CAN 1 activity LED",
+    "description": "Lights when the activity detector U10 senses traffic on CAN 1.",
+    "group": "CAN buses"
+  },
+  "LED4": {
+    "name": "CAN 2 activity LED",
+    "description": "Lights when the activity detector U11 senses traffic on CAN 2.",
+    "group": "CAN buses"
+  },
+  "LED5": {
+    "name": "CAN 3 activity LED",
+    "description": "Lights when the activity detector U12 senses traffic on CAN 3.",
+    "group": "CAN buses"
+  },
+  "LED6": {
+    "name": "Port power LED",
+    "description": "Lights when switched power is present at this port.",
+    "group": "Port 1"
+  },
+  "LED7": {
+    "name": "Port power LED",
+    "description": "Lights when switched power is present at this port.",
+    "group": "Port 2"
+  },
+  "LED8": {
+    "name": "Port power LED",
+    "description": "Lights when switched power is present at this port.",
+    "group": "Port 3"
+  },
+  "LED9": {
+    "name": "Port power LED",
+    "description": "Lights when switched power is present at this port.",
+    "group": "Port 4"
+  },
+  "LED10": {
+    "name": "Two-color sideband LED",
+    "description": "Shows the selected ignition or relay sideband signal.",
+    "group": "Port 1"
+  },
+  "LED11": {
+    "name": "Two-color sideband LED",
+    "description": "Shows the selected ignition or relay sideband signal.",
+    "group": "Port 2"
+  },
+  "LED12": {
+    "name": "Two-color sideband LED",
+    "description": "Shows the selected ignition or relay sideband signal.",
+    "group": "Port 3"
+  },
+  "LED13": {
+    "name": "Two-color sideband LED",
+    "description": "Shows the selected ignition or relay sideband signal.",
+    "group": "Port 4"
+  },
+  "LED14": {
+    "name": "Two-color sideband LED",
+    "description": "Shows the selected ignition or relay sideband signal.",
+    "group": "Port 1"
+  },
+  "LED15": {
+    "name": "Two-color sideband LED",
+    "description": "Shows the selected ignition or relay sideband signal.",
+    "group": "Port 2"
+  },
+  "LED16": {
+    "name": "Two-color sideband LED",
+    "description": "Shows the selected ignition or relay sideband signal.",
+    "group": "Port 3"
+  },
+  "LED17": {
+    "name": "Two-color sideband LED",
+    "description": "Shows the selected ignition or relay sideband signal.",
+    "group": "Port 4"
+  },
+  "Q1": {
+    "name": "Input protection MOSFET",
+    "description": "Part of the circuit that passes power from the barrel jack to the 12 V rail and protects against reversed input polarity.",
+    "group": "Power input and regulators"
+  },
+  "Q2": {
+    "name": "Sideband switch",
+    "description": "Two small MOSFETs switch the ignition and relay signal paths for one sideband contact.",
+    "group": "Port 1"
+  },
+  "Q3": {
+    "name": "Sideband switch",
+    "description": "Two small MOSFETs switch the ignition and relay signal paths for one sideband contact.",
+    "group": "Port 2"
+  },
+  "Q4": {
+    "name": "Sideband switch",
+    "description": "Two small MOSFETs switch the ignition and relay signal paths for one sideband contact.",
+    "group": "Port 3"
+  },
+  "Q5": {
+    "name": "Sideband switch",
+    "description": "Two small MOSFETs switch the ignition and relay signal paths for one sideband contact.",
+    "group": "Port 4"
+  },
+  "Q6": {
+    "name": "Sideband switch",
+    "description": "Two small MOSFETs switch the ignition and relay signal paths for one sideband contact.",
+    "group": "Port 1"
+  },
+  "Q7": {
+    "name": "Sideband switch",
+    "description": "Two small MOSFETs switch the ignition and relay signal paths for one sideband contact.",
+    "group": "Port 2"
+  },
+  "Q8": {
+    "name": "Sideband switch",
+    "description": "Two small MOSFETs switch the ignition and relay signal paths for one sideband contact.",
+    "group": "Port 3"
+  },
+  "Q9": {
+    "name": "Sideband switch",
+    "description": "Two small MOSFETs switch the ignition and relay signal paths for one sideband contact.",
+    "group": "Port 4"
+  },
+  "R1": {
+    "name": "Resistor",
+    "description": "Connects 5 V and Net-(U1-EN) through a resistor.",
+    "group": "Power input and regulators"
+  },
+  "R2": {
+    "name": "Resistor",
+    "description": "Connects ground and Net-(D2-A) through a resistor.",
+    "group": "Power input and regulators"
+  },
+  "R3": {
+    "name": "Resistor",
+    "description": "Connects Net-(U1-FB) and ground through a resistor.",
+    "group": "Power input and regulators"
+  },
+  "R4": {
+    "name": "Resistor",
+    "description": "Connects 3.3 V and Net-(U1-FB) through a resistor.",
+    "group": "Power input and regulators"
+  },
+  "R5": {
+    "name": "Resistor",
+    "description": "Connects 3.3 V and Net-(U1-FB) through a resistor.",
+    "group": "Power input and regulators"
+  },
+  "R6": {
+    "name": "Resistor",
+    "description": "Connects 3.3 V and Net-(U1-FB) through a resistor.",
+    "group": "Power input and regulators"
+  },
+  "R7": {
+    "name": "Resistor",
+    "description": "Connects 12 V and Net-(U2-EN) through a resistor.",
+    "group": "Power input and regulators"
+  },
+  "R8": {
+    "name": "Resistor",
+    "description": "Connects Net-(U2-EN) and ground through a resistor.",
+    "group": "Power input and regulators"
+  },
+  "R9": {
+    "name": "Resistor",
+    "description": "Connects Net-(U2-FB) and ground through a resistor.",
+    "group": "Power input and regulators"
+  },
+  "R10": {
+    "name": "Resistor",
+    "description": "Connects Net-(U2-FB) and 5 V through a resistor.",
+    "group": "Power input and regulators"
+  },
+  "R11": {
+    "name": "Resistor",
+    "description": "Connects 3.3 V and Net-(U3-PDR_ON) through a resistor.",
+    "group": "Main controller"
+  },
+  "R12": {
+    "name": "Resistor",
+    "description": "Connects ground and BTN through a resistor.",
+    "group": "Main controller"
+  },
+  "R13": {
+    "name": "Resistor",
+    "description": "Connects Net-(U3-PF7) and CH2_SBU2 through a resistor.",
+    "group": "Main controller"
+  },
+  "R14": {
+    "name": "Resistor",
+    "description": "Connects Net-(U3-PF8) and CH4_SBU2 through a resistor.",
+    "group": "Main controller"
+  },
+  "R15": {
+    "name": "Resistor",
+    "description": "Connects Net-(U3-PF9) and CH2_SBU1 through a resistor.",
+    "group": "Main controller"
+  },
+  "R16": {
+    "name": "Resistor",
+    "description": "Connects Net-(U3-PF10) and CH4_SBU1 through a resistor.",
+    "group": "Main controller"
+  },
+  "R17": {
+    "name": "Resistor",
+    "description": "Connects Net-(U3-PC0) and CH3_SBU1 through a resistor.",
+    "group": "Main controller"
+  },
+  "R18": {
+    "name": "Resistor",
+    "description": "Connects Net-(U3-PC1) and CH3_SBU2 through a resistor.",
+    "group": "Main controller"
+  },
+  "R19": {
+    "name": "Resistor",
+    "description": "Connects Net-(U3-PC2_C) and CH1_SBU1 through a resistor.",
+    "group": "Main controller"
+  },
+  "R20": {
+    "name": "Resistor",
+    "description": "Connects Net-(U3-PC3_C) and CH1_SBU2 through a resistor.",
+    "group": "Main controller"
+  },
+  "R21": {
+    "name": "Resistor",
+    "description": "Connects Net-(LED1-R-) and LED_R through a resistor.",
+    "group": "Main controller"
+  },
+  "R22": {
+    "name": "Resistor",
+    "description": "Connects Net-(LED1-G-) and LED_G through a resistor.",
+    "group": "Main controller"
+  },
+  "R23": {
+    "name": "Resistor",
+    "description": "Connects Net-(LED1-B-) and LED_B through a resistor.",
+    "group": "Main controller"
+  },
+  "R24": {
+    "name": "Resistor",
+    "description": "Connects Net-(U4-VBUS_DET) and USB bus power through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R25": {
+    "name": "Resistor",
+    "description": "Connects ground and Net-(U4-VBUS_DET) through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R26": {
+    "name": "Resistor",
+    "description": "Connects Net-(U4-XTAL2) and Net-(U4-XTAL1) through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R27": {
+    "name": "Resistor",
+    "description": "Connects ground and Net-(U4-RBIAS) through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R28": {
+    "name": "Resistor",
+    "description": "Connects 3.3 V and HUB_SDA through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R29": {
+    "name": "Resistor",
+    "description": "Connects 3.3 V and Net-(U4-SUSP_IND) through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R30": {
+    "name": "Resistor",
+    "description": "Connects 3.3 V and HUB_SCL through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R31": {
+    "name": "Resistor",
+    "description": "Connects Net-(J3-CC1) and ground through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R32": {
+    "name": "Resistor",
+    "description": "Connects Net-(J3-CC1) and ground through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R33": {
+    "name": "Resistor",
+    "description": "Connects 3.3 V and Net-(J2-DAT0) through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R34": {
+    "name": "Resistor",
+    "description": "Connects 3.3 V and Net-(J2-DAT1) through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R35": {
+    "name": "Resistor",
+    "description": "Connects 3.3 V and Net-(J2-DAT2) through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R36": {
+    "name": "Resistor",
+    "description": "Connects 3.3 V and Net-(J2-CD/DAT3) through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R37": {
+    "name": "Resistor",
+    "description": "Connects 3.3 V and Net-(J2-CMD) through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R38": {
+    "name": "Resistor",
+    "description": "Connects SD_D0 and Net-(J2-DAT0) through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R39": {
+    "name": "Resistor",
+    "description": "Connects SD_D1 and Net-(J2-DAT1) through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R40": {
+    "name": "Resistor",
+    "description": "Connects SD_D2 and Net-(J2-DAT2) through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R41": {
+    "name": "Resistor",
+    "description": "Connects SD_D3 and Net-(J2-CD/DAT3) through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R42": {
+    "name": "Resistor",
+    "description": "Connects SD_CMD and Net-(J2-CMD) through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R43": {
+    "name": "Resistor",
+    "description": "Connects SD_CLK and Net-(J2-CLK) through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R44": {
+    "name": "Resistor",
+    "description": "Connects Net-(J3-CC2-PadB5) and ground through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R45": {
+    "name": "Resistor",
+    "description": "Connects Net-(J3-CC2-PadB5) and ground through a resistor.",
+    "group": "Host USB and microSD"
+  },
+  "R46": {
+    "name": "CAN 0 termination resistor",
+    "description": "Connects across both wires of CAN 0 to help control reflections on the bus.",
+    "group": "CAN buses"
+  },
+  "R47": {
+    "name": "CAN 1 termination resistor",
+    "description": "Connects across both wires of CAN 1 to help control reflections on the bus.",
+    "group": "CAN buses"
+  },
+  "R48": {
+    "name": "CAN 2 termination resistor",
+    "description": "Connects across both wires of CAN 2 to help control reflections on the bus.",
+    "group": "CAN buses"
+  },
+  "R49": {
+    "name": "CAN 3 termination resistor",
+    "description": "Connects across both wires of CAN 3 to help control reflections on the bus.",
+    "group": "CAN buses"
+  },
+  "R50": {
+    "name": "Resistor",
+    "description": "Connects CAN0_H and Net-(U9-+) through a resistor.",
+    "group": "CAN buses"
+  },
+  "R51": {
+    "name": "Resistor",
+    "description": "Connects CAN0_L and Net-(U9--) through a resistor.",
+    "group": "CAN buses"
+  },
+  "R52": {
+    "name": "Resistor",
+    "description": "Connects Net-(U9--) and 5 V through a resistor.",
+    "group": "CAN buses"
+  },
+  "R53": {
+    "name": "Resistor",
+    "description": "Connects CAN1_H and Net-(U10-+) through a resistor.",
+    "group": "CAN buses"
+  },
+  "R54": {
+    "name": "Resistor",
+    "description": "Connects CAN1_L and Net-(U10--) through a resistor.",
+    "group": "CAN buses"
+  },
+  "R55": {
+    "name": "Resistor",
+    "description": "Connects Net-(U10--) and 5 V through a resistor.",
+    "group": "CAN buses"
+  },
+  "R56": {
+    "name": "Resistor",
+    "description": "Connects CAN2_H and Net-(U11-+) through a resistor.",
+    "group": "CAN buses"
+  },
+  "R57": {
+    "name": "Resistor",
+    "description": "Connects CAN2_L and Net-(U11--) through a resistor.",
+    "group": "CAN buses"
+  },
+  "R58": {
+    "name": "Resistor",
+    "description": "Connects Net-(U11--) and 5 V through a resistor.",
+    "group": "CAN buses"
+  },
+  "R59": {
+    "name": "Resistor",
+    "description": "Connects CAN3_H and Net-(U12-+) through a resistor.",
+    "group": "CAN buses"
+  },
+  "R60": {
+    "name": "Resistor",
+    "description": "Connects CAN3_L and Net-(U12--) through a resistor.",
+    "group": "CAN buses"
+  },
+  "R61": {
+    "name": "Resistor",
+    "description": "Connects Net-(U12--) and 5 V through a resistor.",
+    "group": "CAN buses"
+  },
+  "R62": {
+    "name": "Resistor",
+    "description": "Connects Net-(R62-Pad1) and Net-(LED2-PadA) through a resistor.",
+    "group": "CAN buses"
+  },
+  "R63": {
+    "name": "Resistor",
+    "description": "Connects Net-(R63-Pad1) and Net-(LED3-PadA) through a resistor.",
+    "group": "CAN buses"
+  },
+  "R64": {
+    "name": "Resistor",
+    "description": "Connects Net-(R64-Pad1) and Net-(LED4-PadA) through a resistor.",
+    "group": "CAN buses"
+  },
+  "R65": {
+    "name": "Resistor",
+    "description": "Connects Net-(R65-Pad1) and Net-(LED5-PadA) through a resistor.",
+    "group": "CAN buses"
+  },
+  "R66": {
+    "name": "Current-limit resistor",
+    "description": "Sets the current limit for this port’s power switch.",
+    "group": "Port 1"
+  },
+  "R67": {
+    "name": "Current-limit resistor",
+    "description": "Sets the current limit for this port’s power switch.",
+    "group": "Port 2"
+  },
+  "R68": {
+    "name": "Current-limit resistor",
+    "description": "Sets the current limit for this port’s power switch.",
+    "group": "Port 3"
+  },
+  "R69": {
+    "name": "Current-limit resistor",
+    "description": "Sets the current limit for this port’s power switch.",
+    "group": "Port 4"
+  },
+  "R70": {
+    "name": "Current-monitor resistor",
+    "description": "Turns the power switch’s current-monitor output into a voltage the STM32 can read.",
+    "group": "Port 1"
+  },
+  "R71": {
+    "name": "Current-monitor resistor",
+    "description": "Turns the power switch’s current-monitor output into a voltage the STM32 can read.",
+    "group": "Port 2"
+  },
+  "R72": {
+    "name": "Current-monitor resistor",
+    "description": "Turns the power switch’s current-monitor output into a voltage the STM32 can read.",
+    "group": "Port 3"
+  },
+  "R73": {
+    "name": "Current-monitor resistor",
+    "description": "Turns the power switch’s current-monitor output into a voltage the STM32 can read.",
+    "group": "Port 4"
+  },
+  "R74": {
+    "name": "Power LED resistor",
+    "description": "Limits current through the port’s power LED.",
+    "group": "Port 1"
+  },
+  "R75": {
+    "name": "Power LED resistor",
+    "description": "Limits current through the port’s power LED.",
+    "group": "Port 2"
+  },
+  "R76": {
+    "name": "Power LED resistor",
+    "description": "Limits current through the port’s power LED.",
+    "group": "Port 3"
+  },
+  "R77": {
+    "name": "Power LED resistor",
+    "description": "Limits current through the port’s power LED.",
+    "group": "Port 4"
+  },
+  "R78": {
+    "name": "Sideband gate resistor",
+    "description": "Part of the circuit that sets the MOSFET gate state.",
+    "group": "Port 1"
+  },
+  "R79": {
+    "name": "Sideband gate resistor",
+    "description": "Part of the circuit that sets the MOSFET gate state.",
+    "group": "Port 2"
+  },
+  "R80": {
+    "name": "Sideband gate resistor",
+    "description": "Part of the circuit that sets the MOSFET gate state.",
+    "group": "Port 3"
+  },
+  "R81": {
+    "name": "Sideband gate resistor",
+    "description": "Part of the circuit that sets the MOSFET gate state.",
+    "group": "Port 4"
+  },
+  "R82": {
+    "name": "Sideband LED resistor",
+    "description": "Limits current into one color of the sideband LED.",
+    "group": "Port 1"
+  },
+  "R83": {
+    "name": "Sideband LED resistor",
+    "description": "Limits current into one color of the sideband LED.",
+    "group": "Port 1"
+  },
+  "R84": {
+    "name": "Sideband LED resistor",
+    "description": "Limits current into one color of the sideband LED.",
+    "group": "Port 2"
+  },
+  "R85": {
+    "name": "Sideband LED resistor",
+    "description": "Limits current into one color of the sideband LED.",
+    "group": "Port 2"
+  },
+  "R86": {
+    "name": "Sideband LED resistor",
+    "description": "Limits current into one color of the sideband LED.",
+    "group": "Port 3"
+  },
+  "R87": {
+    "name": "Sideband LED resistor",
+    "description": "Limits current into one color of the sideband LED.",
+    "group": "Port 3"
+  },
+  "R88": {
+    "name": "Sideband LED resistor",
+    "description": "Limits current into one color of the sideband LED.",
+    "group": "Port 4"
+  },
+  "R89": {
+    "name": "Sideband LED resistor",
+    "description": "Limits current into one color of the sideband LED.",
+    "group": "Port 4"
+  },
+  "R90": {
+    "name": "Sideband load resistor",
+    "description": "Part of the load presented to the sideband line when its transistor switches.",
+    "group": "Port 1"
+  },
+  "R91": {
+    "name": "Sideband load resistor",
+    "description": "Part of the load presented to the sideband line when its transistor switches.",
+    "group": "Port 1"
+  },
+  "R92": {
+    "name": "Sideband load resistor",
+    "description": "Part of the load presented to the sideband line when its transistor switches.",
+    "group": "Port 2"
+  },
+  "R93": {
+    "name": "Sideband load resistor",
+    "description": "Part of the load presented to the sideband line when its transistor switches.",
+    "group": "Port 2"
+  },
+  "R94": {
+    "name": "Sideband load resistor",
+    "description": "Part of the load presented to the sideband line when its transistor switches.",
+    "group": "Port 3"
+  },
+  "R95": {
+    "name": "Sideband load resistor",
+    "description": "Part of the load presented to the sideband line when its transistor switches.",
+    "group": "Port 3"
+  },
+  "R96": {
+    "name": "Sideband load resistor",
+    "description": "Part of the load presented to the sideband line when its transistor switches.",
+    "group": "Port 4"
+  },
+  "R97": {
+    "name": "Sideband load resistor",
+    "description": "Part of the load presented to the sideband line when its transistor switches.",
+    "group": "Port 4"
+  },
+  "R98": {
+    "name": "Sideband gate resistor",
+    "description": "Part of the circuit that sets the MOSFET gate state.",
+    "group": "Port 1"
+  },
+  "R99": {
+    "name": "Sideband gate resistor",
+    "description": "Part of the circuit that sets the MOSFET gate state.",
+    "group": "Port 2"
+  },
+  "R100": {
+    "name": "Sideband gate resistor",
+    "description": "Part of the circuit that sets the MOSFET gate state.",
+    "group": "Port 3"
+  },
+  "R101": {
+    "name": "Sideband gate resistor",
+    "description": "Part of the circuit that sets the MOSFET gate state.",
+    "group": "Port 4"
+  },
+  "R102": {
+    "name": "Sideband gate resistor",
+    "description": "Part of the circuit that sets the MOSFET gate state.",
+    "group": "Port 1"
+  },
+  "R103": {
+    "name": "Sideband gate resistor",
+    "description": "Part of the circuit that sets the MOSFET gate state.",
+    "group": "Port 2"
+  },
+  "R104": {
+    "name": "Sideband gate resistor",
+    "description": "Part of the circuit that sets the MOSFET gate state.",
+    "group": "Port 3"
+  },
+  "R105": {
+    "name": "Sideband gate resistor",
+    "description": "Part of the circuit that sets the MOSFET gate state.",
+    "group": "Port 4"
+  },
+  "R106": {
+    "name": "Sideband LED resistor",
+    "description": "Limits current into one color of the sideband LED.",
+    "group": "Port 1"
+  },
+  "R107": {
+    "name": "Sideband LED resistor",
+    "description": "Limits current into one color of the sideband LED.",
+    "group": "Port 1"
+  },
+  "R108": {
+    "name": "Sideband LED resistor",
+    "description": "Limits current into one color of the sideband LED.",
+    "group": "Port 2"
+  },
+  "R109": {
+    "name": "Sideband LED resistor",
+    "description": "Limits current into one color of the sideband LED.",
+    "group": "Port 2"
+  },
+  "R110": {
+    "name": "Sideband LED resistor",
+    "description": "Limits current into one color of the sideband LED.",
+    "group": "Port 3"
+  },
+  "R111": {
+    "name": "Sideband LED resistor",
+    "description": "Limits current into one color of the sideband LED.",
+    "group": "Port 3"
+  },
+  "R112": {
+    "name": "Sideband LED resistor",
+    "description": "Limits current into one color of the sideband LED.",
+    "group": "Port 4"
+  },
+  "R113": {
+    "name": "Sideband LED resistor",
+    "description": "Limits current into one color of the sideband LED.",
+    "group": "Port 4"
+  },
+  "R114": {
+    "name": "Sideband load resistor",
+    "description": "Part of the load presented to the sideband line when its transistor switches.",
+    "group": "Port 1"
+  },
+  "R115": {
+    "name": "Sideband load resistor",
+    "description": "Part of the load presented to the sideband line when its transistor switches.",
+    "group": "Port 1"
+  },
+  "R116": {
+    "name": "Sideband load resistor",
+    "description": "Part of the load presented to the sideband line when its transistor switches.",
+    "group": "Port 2"
+  },
+  "R117": {
+    "name": "Sideband load resistor",
+    "description": "Part of the load presented to the sideband line when its transistor switches.",
+    "group": "Port 2"
+  },
+  "R118": {
+    "name": "Sideband load resistor",
+    "description": "Part of the load presented to the sideband line when its transistor switches.",
+    "group": "Port 3"
+  },
+  "R119": {
+    "name": "Sideband load resistor",
+    "description": "Part of the load presented to the sideband line when its transistor switches.",
+    "group": "Port 3"
+  },
+  "R120": {
+    "name": "Sideband load resistor",
+    "description": "Part of the load presented to the sideband line when its transistor switches.",
+    "group": "Port 4"
+  },
+  "R121": {
+    "name": "Sideband load resistor",
+    "description": "Part of the load presented to the sideband line when its transistor switches.",
+    "group": "Port 4"
+  },
+  "R122": {
+    "name": "Sideband gate resistor",
+    "description": "Part of the circuit that sets the MOSFET gate state.",
+    "group": "Port 1"
+  },
+  "R123": {
+    "name": "Sideband gate resistor",
+    "description": "Part of the circuit that sets the MOSFET gate state.",
+    "group": "Port 2"
+  },
+  "R124": {
+    "name": "Sideband gate resistor",
+    "description": "Part of the circuit that sets the MOSFET gate state.",
+    "group": "Port 3"
+  },
+  "R125": {
+    "name": "Sideband gate resistor",
+    "description": "Part of the circuit that sets the MOSFET gate state.",
+    "group": "Port 4"
+  },
+  "SW1": {
+    "name": "Push button",
+    "description": "Pressing it connects the BTN input to 3.3 V.",
+    "group": "Main controller"
+  },
+  "U1": {
+    "name": "5 V to 3.3 V regulator",
+    "description": "This switching regulator uses L1 and nearby capacitors to make 3.3 V from the 5 V rail.",
+    "group": "Power input and regulators"
+  },
+  "U2": {
+    "name": "12 V to 5 V regulator",
+    "description": "This switching regulator uses L2 and nearby capacitors to make 5 V from the 12 V input.",
+    "group": "Power input and regulators"
+  },
+  "U3": {
+    "name": "STM32 controller",
+    "description": "The main programmable chip. It talks to the CAN chips, controls the four port power switches, and reads the button.",
+    "group": "Main controller"
+  },
+  "U4": {
+    "name": "USB hub",
+    "description": "Connects the flat host socket to the USB branches for the STM32 and the four upright device sockets.",
+    "group": "Host USB and microSD"
+  },
+  "U5": {
+    "name": "CAN 0 transceiver",
+    "description": "Converts the STM32’s transmit and receive signals into the two-wire CAN 0 bus signals.",
+    "group": "CAN buses"
+  },
+  "U6": {
+    "name": "CAN 1 transceiver",
+    "description": "Converts the STM32’s transmit and receive signals into the two-wire CAN 1 bus signals.",
+    "group": "CAN buses"
+  },
+  "U7": {
+    "name": "CAN 2 transceiver",
+    "description": "Converts the STM32’s transmit and receive signals into the two-wire CAN 2 bus signals.",
+    "group": "CAN buses"
+  },
+  "U8": {
+    "name": "CAN 3 transceiver",
+    "description": "Converts the STM32’s transmit and receive signals into the two-wire CAN 3 bus signals.",
+    "group": "CAN buses"
+  },
+  "U9": {
+    "name": "CAN 0 activity detector",
+    "description": "Senses traffic on CAN 0 and drives LED2, the activity light.",
+    "group": "CAN buses"
+  },
+  "U10": {
+    "name": "CAN 1 activity detector",
+    "description": "Senses traffic on CAN 1 and drives LED3, the activity light.",
+    "group": "CAN buses"
+  },
+  "U11": {
+    "name": "CAN 2 activity detector",
+    "description": "Senses traffic on CAN 2 and drives LED4, the activity light.",
+    "group": "CAN buses"
+  },
+  "U12": {
+    "name": "CAN 3 activity detector",
+    "description": "Senses traffic on CAN 3 and drives LED5, the activity light.",
+    "group": "CAN buses"
+  },
+  "U13": {
+    "name": "Port power switch",
+    "description": "The STM32 can turn this port’s 12 V supply on or off. This part also limits current and reports how much the port draws.",
+    "group": "Port 1"
+  },
+  "U14": {
+    "name": "Port power switch",
+    "description": "The STM32 can turn this port’s 12 V supply on or off. This part also limits current and reports how much the port draws.",
+    "group": "Port 2"
+  },
+  "U15": {
+    "name": "Port power switch",
+    "description": "The STM32 can turn this port’s 12 V supply on or off. This part also limits current and reports how much the port draws.",
+    "group": "Port 3"
+  },
+  "U16": {
+    "name": "Port power switch",
+    "description": "The STM32 can turn this port’s 12 V supply on or off. This part also limits current and reports how much the port draws.",
+    "group": "Port 4"
+  },
+  "Y1": {
+    "name": "25 MHz crystal",
+    "description": "The frequency reference for the STM32.",
+    "group": "Main controller"
+  },
+  "Y2": {
+    "name": "24 MHz crystal",
+    "description": "The frequency reference for the USB hub.",
+    "group": "Host USB and microSD"
+  }
+}
